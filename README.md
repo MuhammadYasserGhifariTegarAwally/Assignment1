@@ -25,4 +25,15 @@ Repository ini digunakan saya, Muhammad Yasser Ghifari Tegar Awally NPM:G1A02303
   ```
 for (int i = 1; i <= 100; i++) {
   ```
-Code diatas adalah for loop yang akan menambah nilai i dengan 1 jika nilai i dibawah 100
+Code diatas adalah for loop yang akan menambah nilai i dengan 1 jika nilai i dibawah 100.
+```
+if (i <= 9) {
+                System.out.println(i);
+            } else {
+                System.out.println("Yasser");
+            }
+```
+Statement if else diatas berguna untuk menentukan kapan program harus mulai menghasilkan output (Your Name), if (i <= 9) { System.out.println(i); berarti program akan mengoutput nilai i jika nilai i tersebut kurang dari sama dengan 9, sementara } else { System.out.println("Yasser"); } akan memerintahkan program untuk mengoutput "Yasser" jika kondisi if (i <= 9) tidak terpenuhi.
+
+
+
