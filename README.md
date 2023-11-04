@@ -20,7 +20,7 @@ Repository ini digunakan saya, Muhammad Yasser Ghifari Tegar Awally NPM:G1A02303
 
 # Nomor 1, perulangan.java
 #### Fungsi Program
-  Tujuan program ini adalah untuk melakukan perulangan 100 dengan output: 1 2 3 4 5 6 7 8 9 (Your Name) (Your Name) (Your Name).. dan seterusnya.
+Tujuan program ini adalah untuk melakukan perulangan 100 dengan output: 1 2 3 4 5 6 7 8 9 (Your Name) (Your Name) (Your Name).. dan seterusnya.
 #### Penjelasan Code
   ```
 for (int i = 1; i <= 100; i++) {
@@ -33,7 +33,18 @@ if (i <= 9) {
                 System.out.println("Yasser");
             }
 ```
-Statement if else diatas berguna untuk menentukan kapan program harus mulai menghasilkan output (Your Name), if (i <= 9) { System.out.println(i); berarti program akan mengoutput nilai i jika nilai i tersebut kurang dari sama dengan 9, sementara } else { System.out.println("Yasser"); } akan memerintahkan program untuk mengoutput "Yasser" jika kondisi if (i <= 9) tidak terpenuhi.
+Statement if else diatas berguna untuk menentukan kapan program harus mulai menghasilkan output (Your Name), _if (i <= 9) { System.out.println(i);_ berarti program akan mengoutput nilai i jika nilai i tersebut kurang dari sama dengan 9, sementara _} else { System.out.println("Yasser"); }_ akan memerintahkan program untuk mengoutput "Yasser" jika kondisi _if (i <= 9)_ tidak terpenuhi.
+
+
+# Nomor 2, gbk.java
+#### Fungsi Program
+Program ini adalah permainan Gunting Batu Kertas sederhana dimana pemain akan melawan bot
+
+
+
+
+
+
 
 
 
