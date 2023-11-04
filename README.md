@@ -21,7 +21,8 @@ Repository ini digunakan saya, Muhammad Yasser Ghifari Tegar Awally NPM:G1A02303
 # Nomor 1, perulangan.java
 #### Fungsi Program
   Tujuan program ini adalah untuk melakukan perulangan 100 dengan output: 1 2 3 4 5 6 7 8 9 (Your Name) (Your Name) (Your Name).. dan seterusnya.
-#### Tes
+#### Penjelasan Code
   ```
 for (int i = 1; i <= 100; i++) {
   ```
+Code diatas adalah for loop yang akan menambah nilai i dengan 1 jika nilai i dibawah 100
